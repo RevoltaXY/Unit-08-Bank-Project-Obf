@@ -1,0 +1,51 @@
+body {
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.bankName {
+    background: red;
+    color: white;
+    padding: 10px;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputs {
+    margin-top: 10px;
+}
+
+.buttonDiv {
+    margin: 50px;
+    text-align: center;
+}
+
+.heading {
+    background: red;
+    color: white;
+    border: 5px solid black;
+}
+
+p {
+    margin: 10px;
+}
+
+.ledgerBorder {
+    border-bottom: 1px solid black;
+}
+
+element.style {
+}
+.parallax {
+    background-image: url(https://scontent-lht6-1.cdninstagram.com/vp/2864571……476851440910336_n.jpg?se=8&ig_cache_key=MTg0NDA0NjcwNzc2NDE1MzM1NA%3D%3D.2);
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    cursor: url(http://www.rw-designer.com/cursor-view/125029.png), auto;
+    }
